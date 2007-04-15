@@ -1,0 +1,22 @@
+diff -urN gresistor-0.0.1/gresistor.desktop gresistor-0.0.1.new/gresistor.desktop
+--- gresistor-0.0.1/gresistor.desktop	2005-10-16 16:57:21.000000000 +0200
++++ gresistor-0.0.1.new/gresistor.desktop	2007-04-15 20:48:13.000000000 +0200
+@@ -2,13 +2,11 @@
+ Version=0.1.2
+ Encoding=UTF-8
+ Name=gResistor
++Name[ro]=gResistor
+ Comment=Resistor color code calculator
+-Icon=/usr/share/gresistor/icon.png
+-Exec=/usr/bin/gresistor
++Comment[ro]=Calculator pentru formule electrice
++Icon=gresistor
++Exec=gresistor
+ Terminal=false
+ Type=Application
+-MimeType=application/x-glade;
+-Categories=Application;Utility;gResistor
+-Name[ro]=gResistor
+-Comment[ro]=Calculator pentru formule electrice
+-Name[ro_RO]=gResistor
++Categories=GTK;Utility;Electronics;

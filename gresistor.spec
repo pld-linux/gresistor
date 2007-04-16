@@ -32,7 +32,7 @@ kolorowymi paskami określającymi ich rezystancję, tolerancję oraz
 temperaturę pracy. gResistor jest aplikacją pomocną w tłumaczeniu tych
 kodów na czytelną wartość. Wystarczy obejrzeć kolory pasków na
 rezystorze i wprowadzić je do programu. W miarę wprowadzania widać,
-jak wartość rezystora zmienai się w zależności od wybranego koloru.
+jak wartość rezystora zmienia się w zależności od wybranego koloru.
 
 %prep
 %setup -q

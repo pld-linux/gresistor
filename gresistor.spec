@@ -1,4 +1,5 @@
 Summary:	Resistor color code calculator
+Summary(pl.UTF-8):	Kalkulator kodów paskowych rezystorów
 Name:		gresistor
 Version:	0.0.1
 Release:	1
@@ -24,6 +25,12 @@ is a great program that will help you translate a resistor color codes
 into a readable value. All you have to do is watch the colors on the
 resistor and then enter them in the program. As you enter you'll see
 that the resistor value is changing according to the selected color.
+
+%description -l pl.UTF-8
+W celu ułatwienia identyfikacji, rezystory zazwyczaj oznaczane są
+kolorowymi paskami określającymi ich rezystancję, tolerancję oraz
+temperaturę pracy. gResistor jest aplikacją pomocną w tłumaczeniu tych
+kodów na czytelną wartość.
 
 %prep
 %setup -q

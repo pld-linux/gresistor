@@ -27,10 +27,12 @@ resistor and then enter them in the program. As you enter you'll see
 that the resistor value is changing according to the selected color.
 
 %description -l pl.UTF-8
-W celu ułatwienia identyfikacji, rezystory zazwyczaj oznaczane są
+W celu ułatwienia identyfikacji rezystory zazwyczaj oznaczane są
 kolorowymi paskami określającymi ich rezystancję, tolerancję oraz
 temperaturę pracy. gResistor jest aplikacją pomocną w tłumaczeniu tych
-kodów na czytelną wartość.
+kodów na czytelną wartość. Wystarczy obejrzeć kolory pasków na
+rezystorze i wprowadzić je do programu. W miarę wprowadzania widać,
+jak wartość rezystora zmienai się w zależności od wybranego koloru.
 
 %prep
 %setup -q

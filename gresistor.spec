@@ -2,7 +2,7 @@ Summary:	Resistor color code calculator
 Summary(pl.UTF-8):	Kalkulator kodów paskowych rezystorów
 Name:		gresistor
 Version:	0.0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.minipop.org/progs/gresistor/%{name}-%{version}.tar.gz

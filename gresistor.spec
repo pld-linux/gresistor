@@ -10,6 +10,7 @@ Source0:	http://www.minipop.org/progs/gresistor/%{name}-%{version}.tar.gz
 Patch0:		%{name}-desktop.patch
 URL:		http://minipop.org/index.php?file=gresistor
 BuildRequires:	python >= 1:2.5
+BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.219
 %pyrequires_eq	python-modules
